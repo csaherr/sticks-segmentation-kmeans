@@ -15,3 +15,15 @@ Market segmentation project using survey data to identify behavioral segments, p
 
 ## Data Availability
 Case materials and raw data are not included in this repository due to licensing restrictions.
+
+
+## Visuals
+
+### Elbow Plot (k selection)
+![Elbow Plot](assets/elbow_plot.png)
+
+### Segment Profiles + Sizes (k = 5)
+![Cluster Profiles](assets/cluster_profiles.png)
+
+### Location Recommendation
+![Location Recommendation](assets/location_recommendation.png)
